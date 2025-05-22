@@ -1,0 +1,4 @@
+student_id,age,gender,major,email
+100001,21,Male,Computer Science,cs_male_1@example.com
+100002,22,Female,Psychology,psy_female_2@example.com
+100003,23,Male,Engineering,eng_male_3@example.com

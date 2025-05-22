@@ -1,0 +1,4 @@
+student_id,study_hours_per_day,screen_time,study_environment
+100001,4,5,quiet room
+100002,3,6,noisy cafe
+100003,2,4,quiet library
